@@ -1,5 +1,5 @@
 ('C:\\Users\\joao.silveira\\Desktop\\Liberar '
- 'Omni\\liberar_omni\\build\\devolucao_omni\\devolucao_omni.pkg',
+ 'Omni\\liberar_omni\\build\\Devolucao_OMNI\\Devolucao_OMNI.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
@@ -12,27 +12,27 @@
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
    'C:\\Users\\joao.silveira\\Desktop\\Liberar '
-   'Omni\\liberar_omni\\build\\devolucao_omni\\PYZ-00.pyz',
+   'Omni\\liberar_omni\\build\\Devolucao_OMNI\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
    'C:\\Users\\joao.silveira\\Desktop\\Liberar '
-   'Omni\\liberar_omni\\build\\devolucao_omni\\localpycs\\struct.pyc',
+   'Omni\\liberar_omni\\build\\Devolucao_OMNI\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
    'C:\\Users\\joao.silveira\\Desktop\\Liberar '
-   'Omni\\liberar_omni\\build\\devolucao_omni\\localpycs\\pyimod01_archive.pyc',
+   'Omni\\liberar_omni\\build\\Devolucao_OMNI\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
    'C:\\Users\\joao.silveira\\Desktop\\Liberar '
-   'Omni\\liberar_omni\\build\\devolucao_omni\\localpycs\\pyimod02_importers.pyc',
+   'Omni\\liberar_omni\\build\\Devolucao_OMNI\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
    'C:\\Users\\joao.silveira\\Desktop\\Liberar '
-   'Omni\\liberar_omni\\build\\devolucao_omni\\localpycs\\pyimod03_ctypes.pyc',
+   'Omni\\liberar_omni\\build\\Devolucao_OMNI\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
    'C:\\Users\\joao.silveira\\Desktop\\Liberar '
-   'Omni\\liberar_omni\\build\\devolucao_omni\\localpycs\\pyimod04_pywin32.pyc',
+   'Omni\\liberar_omni\\build\\Devolucao_OMNI\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\joao.silveira\\Desktop\\Liberar '
@@ -58,7 +58,7 @@
   ('libcrypto-1_1.dll', 'C:\\Python311\\DLLs\\libcrypto-1_1.dll', 'BINARY'),
   ('base_library.zip',
    'C:\\Users\\joao.silveira\\Desktop\\Liberar '
-   'Omni\\liberar_omni\\build\\devolucao_omni\\base_library.zip',
+   'Omni\\liberar_omni\\build\\Devolucao_OMNI\\base_library.zip',
    'DATA')],
  'python311.dll',
  False,

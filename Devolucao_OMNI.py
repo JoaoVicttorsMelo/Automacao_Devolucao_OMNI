@@ -1,5 +1,6 @@
 import os
 import subprocess
+import time
 
 # Lógica principal
 while True:
@@ -42,6 +43,8 @@ while True:
                 break
             elif choice.lower() == "nao" or choice.lower() == "n":
                 break
+            else:
+                print("Digite apenas sim ou nao")
     elif (os.path.exists("C:\\Program Files (x86)\\Linx Sistemas\\LinxPOS-e\\UserPrograms")):
         choice = input('DESEJA **HABILITAR** A DEVOLUCAO OMNI? DIGITE: (sim/nao)\n')
         if choice.lower() == "sim" or choice.lower() == "s":
@@ -59,6 +62,8 @@ while True:
             break
         elif choice.lower() == "nao" or choice.lower() == "n":
             break
+        else:
+            print("Digite apenas sim ou nao")
     elif(os.path.exists("C:\\Program Files (x86)\\Linx Sistemas\\LinxPOS-e\\UserPrograms.omni")):
         choice = input('DESEJA **DESABILITAR** A DEVOLUCAO OMNI? DIGITE: (sim/nao)\n')
         if choice.lower() == "sim" or choice.lower() == "s":
@@ -77,6 +82,10 @@ while True:
             break
         elif choice.lower() == "nao" or choice.lower() == "n":
             break
+        else:
+            print("Digite apenas sim ou nao")
 
     else:
-        print("Digite apenas sim ou nao")
+        print("A Userprograms esta fora do nosso padrão")
+        time.sleep(4)
+        break

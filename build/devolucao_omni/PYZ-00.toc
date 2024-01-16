@@ -1,5 +1,5 @@
 ('C:\\Users\\joao.silveira\\Desktop\\Liberar '
- 'Omni\\liberar_omni\\build\\devolucao_omni\\PYZ-00.pyz',
+ 'Omni\\liberar_omni\\build\\Devolucao_OMNI\\PYZ-00.pyz',
  [('_compat_pickle', 'C:\\Python311\\Lib\\_compat_pickle.py', 'PYMODULE'),
   ('_compression', 'C:\\Python311\\Lib\\_compression.py', 'PYMODULE'),
   ('_py_abc', 'C:\\Python311\\Lib\\_py_abc.py', 'PYMODULE'),

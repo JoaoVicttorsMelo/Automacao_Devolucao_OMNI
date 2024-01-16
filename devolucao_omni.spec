@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['devolucao_omni.py'],
+    ['Devolucao_OMNI.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -21,7 +21,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='devolucao_omni',
+    name='Devolucao_OMNI',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
